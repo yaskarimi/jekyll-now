@@ -5,7 +5,8 @@ permalink: /about/
 ---
 
 Some information about you!
-
+Hi,
+I'm Yasmin
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
